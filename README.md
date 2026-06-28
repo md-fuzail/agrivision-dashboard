@@ -280,7 +280,7 @@ The dashboard was designed iteratively with two levels of fidelity:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/agrivision-dashboard.git
+   git clone https://github.com/md-fuzail/agrivision-dashboard.git
    cd agrivision-dashboard
    ```
 
@@ -366,11 +366,11 @@ MIT License © 2025 Md Fuzail
 ## 👤 Author
 
 **Md Fuzail**
-- GitHub: [github.com/yourusername](https://github.com/yourusername)
-- Email: [your.email@example.com](mailto:your.email@example.com)
+- GitHub: [github.com/md-fuzail](https://github.com/md-fuzail)
+- Email: [fuzai7201@gmail.com](mailto:fuzail7201@gmail.com)
 
 *Architected and developed with intentional product thinking and engineering rigor.*
 
 ---
 
-**Last Updated:** January 2025
+**Last Updated:** June 2026
